@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x add_execute_to_subdirs.sh
+chmod a+X *
